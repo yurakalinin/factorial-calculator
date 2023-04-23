@@ -11,6 +11,7 @@ public class Main {
         }
 
         System.out.println(value + "! = " + factorial + ";");
+        System.out.println("новые коммиты добавлены");
 
 
     }
