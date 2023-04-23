@@ -10,6 +10,7 @@ public class Main {
             factorial = factorial * i;
         }
 
-        System.out.println(value + "! = " + factorial);
+        System.out.println(value + "! = " + factorial + ";");
+		System.out.println("END");
     }
 }
