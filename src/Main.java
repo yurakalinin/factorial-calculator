@@ -3,7 +3,8 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        System.out.println("Введите число, факториал которого вудем вычислять:");
+        System.out.println("Добропожаловать");
+		System.out.println("Введите число, факториал которого вудем вычислять:");
         int value = new Scanner(System.in).nextInt();
         int factorial = 1;
         for (int i = 1; i <= value; i++){
@@ -11,6 +12,7 @@ public class Main {
         }
 
         System.out.println(value + "! = " + factorial + ";");
+		
 
 
     }
