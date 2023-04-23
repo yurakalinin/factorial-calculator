@@ -10,7 +10,7 @@ public class Main {
             factorial = factorial * i;
         }
 
-        System.out.println("А вот и отввет:");
+        System.out.println("А вот и отввет:)");
         System.out.println(value + "! = " + factorial + ";");
 
 
